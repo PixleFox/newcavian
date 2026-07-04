@@ -1,0 +1,122 @@
+[
+  {
+    "id": "slide-01",
+    "imageUrl": "/api/uploads/images/UI%20design%20Materails/Models/ChatGPT%20Image%20Jun%2026%2C%202026%2C%2003_06_52%20AM.png",
+    "imageFile": "",
+    "tag": "پینک فلوید",
+    "title": "صدا را",
+    "titleAccent": "بپوش",
+    "body": "کالکشن Pink Floyd — برای کسایی که واقعاً گوش می‌دن",
+    "neon": "#f43f5e",
+    "neonInk": "#be123c",
+    "order": 0
+  },
+  {
+    "id": "slide-02",
+    "imageUrl": "/api/uploads/images/UI%20design%20Materails/Models/ChatGPT%20Image%20Jun%2026%2C%202026%2C%2003_09_25%20AM.png",
+    "imageFile": "",
+    "tag": "پینک فلوید",
+    "title": "موسیقی",
+    "titleAccent": "جاودانه است",
+    "body": "Dark Side of the Moon — روی تنت، روی پوستت",
+    "neon": "#a855f7",
+    "neonInk": "#7c3aed",
+    "order": 1
+  },
+  {
+    "id": "slide-03",
+    "imageUrl": "/api/uploads/images/UI%20design%20Materails/Models/ChatGPT%20Image%20Jun%2026%2C%202026%2C%2003_12_27%20AM.png",
+    "imageFile": "",
+    "tag": "راک فوریش",
+    "title": "بپوش",
+    "titleAccent": "بلند باش",
+    "body": "از افسانه‌های راک الهام گرفتیم — برای کسی که فرق داره",
+    "neon": "#f43f5e",
+    "neonInk": "#be123c",
+    "order": 2
+  },
+  {
+    "id": "slide-04",
+    "imageUrl": "/api/uploads/images/UI%20design%20Materails/Models/ChatGPT%20Image%20Jun%2026%2C%202026%2C%2003_22_54%20AM.png",
+    "imageFile": "",
+    "tag": "ایران باستان",
+    "title": "تاریخ را",
+    "titleAccent": "حمل کن",
+    "body": "کالکشن تخت جمشید — افتخار ایران روی تن تو",
+    "neon": "#34d399",
+    "neonInk": "#047857",
+    "order": 3
+  },
+  {
+    "id": "slide-05",
+    "imageUrl": "/api/uploads/images/UI%20design%20Materails/Models/ChatGPT%20Image%20Jun%2026%2C%202026%2C%2003_26_38%20AM%20(1).png",
+    "imageFile": "",
+    "tag": "استایل خیابانی",
+    "title": "جسور",
+    "titleAccent": "بی‌اعتنا",
+    "body": "Cavian — برای کسی که قرار نیست توضیح بده چرا متفاوته",
+    "neon": "#22d3ee",
+    "neonInk": "#0e7490",
+    "order": 4
+  },
+  {
+    "id": "slide-06",
+    "imageUrl": "/api/uploads/images/UI%20design%20Materails/Models/ChatGPT%20Image%20Jun%2026%2C%202026%2C%2003_44_08%20AM.png",
+    "imageFile": "",
+    "tag": "سایبرپانک",
+    "title": "آینده را",
+    "titleAccent": "به تن کن",
+    "body": "کالکشن سایبرپانک — نئون، شب و خیابان‌های آینده",
+    "neon": "#22d3ee",
+    "neonInk": "#0e7490",
+    "order": 5
+  },
+  {
+    "id": "slide-07",
+    "imageUrl": "/api/uploads/images/UI%20design%20Materails/Models/ChatGPT%20Image%20Jun%2026%2C%202026%2C%2003_52_28%20AM.png",
+    "imageFile": "",
+    "tag": "دون · آراکیس",
+    "title": "ادویه",
+    "titleAccent": "هدیهٔ زندگیه",
+    "body": "کالکشن Dune — صحرای آراکیس روی سینه‌ات",
+    "neon": "#fbbf24",
+    "neonInk": "#b45309",
+    "order": 6
+  },
+  {
+    "id": "slide-08",
+    "imageUrl": "/api/uploads/images/UI%20design%20Materails/Models/ChatGPT%20Image%20Jun%2026%2C%202026%2C%2004_00_47%20AM.png",
+    "imageFile": "",
+    "tag": "اورسایز",
+    "title": "راحت",
+    "titleAccent": "اما متفاوت",
+    "body": "سبک Cavian — وقتی سادگی حرف می‌زنه",
+    "neon": "#a855f7",
+    "neonInk": "#7c3aed",
+    "order": 7
+  },
+  {
+    "id": "slide-09",
+    "imageUrl": "/api/uploads/images/UI%20design%20Materails/Models/ChatGPT%20Image%20Jun%2026%2C%202026%2C%2004_03_07%20AM.png",
+    "imageFile": "",
+    "tag": "ارباب حلقه‌ها",
+    "title": "یک حلقه",
+    "titleAccent": "فرمانروای همه",
+    "body": "کالکشن Middle-Earth — برای فن‌های واقعی",
+    "neon": "#a855f7",
+    "neonInk": "#7c3aed",
+    "order": 8
+  },
+  {
+    "id": "slide-10",
+    "imageUrl": "/api/uploads/images/UI%20design%20Materails/Models/ChatGPT%20Image%20Jun%2026%2C%202026%2C%2004_07_52%20AM.png",
+    "imageFile": "",
+    "tag": "کاویان",
+    "title": "تنپوش",
+    "titleAccent": "راوی",
+    "body": "هر طرح یه جهان‌بینیه — نه فقط یه لباس",
+    "neon": "#22ff88",
+    "neonInk": "#16a34a",
+    "order": 9
+  }
+]
